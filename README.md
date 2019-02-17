@@ -1,1 +1,1 @@
-# MansOpenSource_FirstLecture
+# MansOpenSource_Lectures
